@@ -2,7 +2,7 @@
 
 A fully responsive landing page for an online jewelry brand, built as part of my internship task to design and develop a premium e-commerce landing page using HTML5, CSS3, Bootstrap 5, and vanilla JavaScript.
 
-**[Live Demo]( https://pallavigowda620.github.io/Aurlie-Luxury-Jewelry-Landing-Page/)** · **[Screenshots](screenshots)**
+**[Live Demo]( https://pallavigowda620.github.io/Aurlie-Luxury-Jewelry-Landing-Page/)** · **[Screenshots](Screenshots)**
 
 ---
 
