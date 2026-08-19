@@ -64,13 +64,22 @@ Visit `http://localhost:8000` in your browser.
 
 ## 📸 Screenshots
 
-*(Add screenshots of the hero, collections, and mobile view here)*
+<img width="1366" height="728" alt="Screenshot1" src="https://github.com/user-attachments/assets/a66e2eb5-3cd0-476f-a6b8-4f0c6ff6a732" />
+<img width="1366" height="728" alt="Screenshot2" src="https://github.com/user-attachments/assets/062a7b48-e21a-46d9-be92-63453867b5bf" />
+<img width="1366" height="728" alt="Screenshot3" src="https://github.com/user-attachments/assets/d0014211-0e68-44c1-84e9-b7017679ba6a" />
+<img width="1366" height="728" alt="Screenshot4" src="https://github.com/user-attachments/assets/22b63631-1957-44ba-bb2b-df24dfdbb88f" />
+<img width="1366" height="728" alt="Screenshot5" src="https://github.com/user-attachments/assets/d12a52aa-ba36-46dd-a092-fcffd53ce11b" />
+<img width="1366" height="728" alt="Screenshot6" src="https://github.com/user-attachments/assets/8af129e5-6737-4472-9e99-12473fa6c603" />
+
+
+
+
 
 ## 📚 What I Learned
 
 - Structuring a multi-section landing page with Bootstrap's grid system
 - Writing custom CSS on top of Bootstrap without specificity conflicts
-- Implementing scroll-based interactions (IntersectionObserver, scroll listeners) in vanilla JS
+- Implementing scroll-based interactions (Intersection Observer, scroll listeners) in vanilla JS
 - Designing a cohesive visual identity (color tokens, type scale, spacing) rather than using default styling
 
 ## 👤 Author
